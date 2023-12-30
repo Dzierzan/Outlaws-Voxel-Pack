@@ -1,3 +1,5 @@
+![](https://imgur.com/3mquD6L.png)
+
 # About
 This is the repository which includes fan-made voxels for Outlaws game. The voxels are meant to be used in The Force Engine (https://theforceengine.github.io/).
 
