@@ -9,4 +9,4 @@ The Force Engine doesn't support voxels at the moment. It is unknown when voxel 
 
 # Media
 
-![](https://cdn.discordapp.com/attachments/738075861500166246/1190656562323275866/image.png?ex=65a29855&is=65902355&hm=6246a70a2642dba58748353a5fda9c59f17f56f30d7957658e7e935acff20fde&.png)
+![](https://imgur.com/6B7Oepn.png)
